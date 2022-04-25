@@ -91,9 +91,9 @@
     <string name="dialog_hugesize_cmdyes">はい</string>
     <string name="dialog_hugesize_cmdno">いいえ</string>
     <string name="draft_church00_title">教会</string>
-    <string name="draft_church00_text">教会があったほうが住民は喜ぶでしょう</string>
+    <string name="draft_church00_text">教会があると住民も喜びます</string>
     <string name="draft_townhall00_title">市役所</string>
-    <string name="draft_townhall00_text">市には市役所がいる、住民も喜ぶでしょう</string>
+    <string name="draft_townhall00_text">市には市役所が必要です。あると住民も喜ぶでしょう</string>
     <string name="draft_wire00_title">電線</string>
     <string name="draft_wire00_text">発電所からの電気を都市に供給する</string>
     <string name="draft_windturbine00_title">風力発電所</string>
@@ -101,7 +101,7 @@
     <string name="draft_coalplant00_title">石炭火力発電</string>
     <string name="draft_coalplant00_text">石炭火力発電は大量のエネルギーを出すことが出来るが、環境には悪い。</string>
     <string name="draft_solarpanels00_title">太陽光発電所</string>
-    <string name="draft_solarpanels00_text">太陽光発電所は環境に優しくて、汚さない</string>
+    <string name="draft_solarpanels00_text">太陽光発電所は環境に優しく、汚染しない</string>
     <string name="draft_park00_title">小さい花壇</string>
     <string name="draft_park00_text">住民は喜ぶでしょう</string>
     <string name="draft_park01_title">小さい公園</string>
@@ -115,17 +115,17 @@
     <string name="draft_bigpark00_text">住民は大きな公園を気に入るでしょう</string>
     <string name="draft_park03_text">住民は喜ぶでしょう</string>
     <string name="draft_medic00_title">診療所</string>
-    <string name="draft_medic00_text">ここで住民は医者に合える</string>
+    <string name="draft_medic00_text">ここで住民は医者に合えます</string>
     <string name="draft_medic01_title">病院</string>
-    <string name="draft_medic01_text">住民は病院の近くだと安心する</string>
+    <string name="draft_medic01_text">住民は病院の近くだと安心します</string>
     <string name="draft_school00_title">小学校</string>
-    <string name="draft_school00_text">ここで子供達が勉強する事が出来る</string>
+    <string name="draft_school00_text">ここで子供達が勉強する事が出来ます</string>
     <string name="draft_school01_title">高校</string>
-    <string name="draft_school01_text">ここで学生達が勉強する事が出来る</string>
+    <string name="draft_school01_text">ここで学生達が勉強する事が出来ます</string>
     <string name="draft_museum00_title">博物館</string>
-    <string name="draft_museum00_text">ここで年寄りがいろいろ学べる</string>
+    <string name="draft_museum00_text">ここで年寄りがいろいろ学べます</string>
     <string name="draft_pipe00_title">水道管</string>
-    <string name="draft_pipe00_text">水道管は都市に給水する事が出来る</string>
+    <string name="draft_pipe00_text">水道管は都市に給水する事が出来ます</string>
     <string name="draft_waterpump00_title">ポンプ場</string>
     <string name="draft_waterpump00_text">建物に水を供給します</string>
     <string name="draft_watertower00_title">貯水塔</string>
@@ -151,9 +151,9 @@
     <string name="settings_category_audio">オーディオ</string>
     <string name="settings_category_other">その他</string>
     <string name="draft_management00_title">警察署</string>
-    <string name="draft_management00_text">犯罪防止をしてくれる</string>
+    <string name="draft_management00_text">犯罪を防止します</string>
     <string name="draft_firedepartment00_title">消防署</string>
-    <string name="draft_firedepartment00_text">火事の消火をしてくれる</string>
+    <string name="draft_firedepartment00_text">火事の消火ができます</string>
     <string name="draft_statue00_title">石像</string>
     <string name="draft_statue00_text">市長の石像</string>
     <string name="draft_gillender00_title">ギレンダー ビル</string>
@@ -162,10 +162,10 @@
     <string name="topic_cake">ケーキは嘘だ!</string>
     <string name="topic_panic">慌てないで</string>
     <string name="draft_bigschool00_title">大きな小学校</string>
-    <string name="draft_bigschool00_text">ここで子供達が勉強する事が出来る.</string>
+    <string name="draft_bigschool00_text">ここで子供達が勉強する事が出来ます.</string>
     <string name="draft_treepark00_title">木の生えた公園</string>
     <string name="draft_treepark00_text">木の生えた公園. 住民達は喜ぶでしょう.</string>
-    <string name="menu_premium">プリミアム</string>
+    <string name="menu_premium">プレミアム</string>
     <string name="ci_budget_title">財務</string>
     <string name="budget_res0">住宅区 ₮ (%1$,d)</string>
     <string name="budget_res1">住宅区 ₮₮ (%1$,d)</string>
@@ -178,7 +178,7 @@
     <string name="budget_ind2">工業区 ₮₮₮ (%1$,d)</string>
     <string name="budget_park">公園</string>
     <string name="budget_education">教育</string>
-    <string name="budget_firebrigade">消防隊</string>
+    <string name="budget_firebrigade">消防</string>
     <string name="budget_police">警察</string>
     <string name="budget_award">記念建造物</string>
     <string name="budget_energy">電力</string>
@@ -193,9 +193,9 @@
     <string name="ci_water_title">水道</string>
     <string name="ci_energy_title">電力</string>
     <string name="ci_info_title">町一覧</string>
-    <string name="ci_water_text">使用されてません</string>
-    <string name="ci_energy_text">使用されてません</string>
-    <string name="ci_general_text">使用されてません</string>
+    <string name="ci_water_text">使用されていません</string>
+    <string name="ci_energy_text">使用されていません</string>
+    <string name="ci_general_text">使用されていません</string>
     <string name="topic_reddit">こんにちはReddit :)</string>
     <string name="topic_animals">生産中に動物に危害が加えられたことはありませんでした!</string>
     <string name="topic_users">10万人のプレイヤーを探している</string>
@@ -216,7 +216,7 @@
     <string name="draftselector_power">電力: %1$,dkW</string>
     <string name="draftselector_water">水道: %1$,dL/h</string>
     <string name="notify_welcome">%1$s へようこそ</string>
-    <string name="notify_citysize">おめでとう、あなたの町は %1$,d人の住民を超えました! </string>
+    <string name="notify_citysize">おめでとう！あなたの町の住民は %1$,d人を超えました! </string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">噴水</string>
     <string name="draft_waterfountain01_text">住民達は喜ぶでしょう</string>
@@ -247,24 +247,24 @@
     <string name="draftselector_titletransport">交通</string>
     <string name="draftselector_titlezone">地区</string>
     <string name="draft_zoneresidential_title">住宅</string>
-    <string name="draft_zoneresidential_text">住民はこの地区に住宅を建てます</string>
+    <string name="draft_zoneresidential_text">住民がこの地区に住宅を建てます</string>
     <string name="draft_zonecommercial_title">商業</string>
-    <string name="draft_zonecommercial_text">この地区に商業建築物を建てることができます</string>
+    <string name="draft_zonecommercial_text">住民がこの地区に店を建てます</string>
     <string name="draft_zoneindustrial_title">工業</string>
-    <string name="draft_zoneindustrial_text">工業建築物はこの地区で建設される</string>
+    <string name="draft_zoneindustrial_text">住民がこの地区に工場を建てます</string>
     <string name="draft_road00_title">土の道路</string>
     <string name="draft_road00_text">土で作られた道路</string>
     <string name="draft_road01_title">道路</string>
     <string name="draft_road01_text">道路の上では車が早く走れます</string>
     <string name="draftselector_titleterrain">地形</string>
     <string name="draft_terrainwater_title">水</string>
-    <string name="draft_terrainwater_text">水を置くことが出来ます</string>
+    <string name="draft_terrainwater_text">水を設置することが出来ます</string>
     <string name="draft_terrainland_title">陸地</string>
-    <string name="draft_terrainland_text">陸地を置くことが出来ます</string>
+    <string name="draft_terrainland_text">陸地を設置することが出来ます</string>
     <string name="draft_tree00_title">木</string>
-    <string name="draft_tree00_text">木を置くことが出来ます</string>
+    <string name="draft_tree00_text">木を生やすことが出来ます</string>
     <string name="draft_busstop00_title">バス停</string>
-    <string name="draft_busstop00_text">ここから住民はバスを使って町の他の部分に行くことができます</string>
+    <string name="draft_busstop00_text">住民がバスを使って移動できます</string>
     <string name="settings_orientation">画面の向き</string>
     <string name="settings_orientationlandscape">縦向き</string>
     <string name="settings_orientationportrait">横向き</string>
@@ -277,11 +277,11 @@
     <string name="draftselector_titleview">一覧</string>
     <string name="toolremove_default_title">撤去</string>
     <string name="toolremove_default_text">このツールで水道管と地区以外は全て撤去出来ます</string>
-    <string name="toolremove_pipe_text">このツールを使用して水道管を撤去すことができます</string>
+    <string name="toolremove_pipe_text">このツールを使用して水道管を撤去することができます</string>
     <string name="toolremove_pipe_title">水道管 撤去</string>
     <string name="draftselector_cmdremove">撤去</string>
     <string name="draftselector_cmdview">一覧</string>
-    <string name="busstopinfo_usage">待っている: %2$,d/%3$,d\n使用率: %1$.1f%%</string>
+    <string name="busstopinfo_usage">利用者: %2$,d/%3$,d\n使用率: %1$.1f%%</string>
     <string name="ci_rating_title">満足度</string>
     <string name="ci_energy_networks">ネットワーク: %1$,d</string>
     <string name="ci_energy_produced">生産量: %1$,.0fkW (建築物: %2$,d)</string>
@@ -312,8 +312,8 @@
     <string name="ci_rci_ind1">工業区 ₮₮</string>
     <string name="ci_rci_ind2">工業区 ₮₮₮</string>
     <string name="ci_general_population0">貧しい住民 (₮): %1$,d</string>
-    <string name="ci_general_population1">一般住民 (₮₮): %1$,d</string>
-    <string name="ci_general_population2">金持ち住民 (₮₮₮): %1$,d</string>
+    <string name="ci_general_population1">一般的な住民 (₮₮): %1$,d</string>
+    <string name="ci_general_population2">金持ちの住民 (₮₮₮): %1$,d</string>
     <string name="draft_footballfield00_title">サッカー場</string>
     <string name="draft_footballfield00_text">サッカー場、住民達は喜ぶでしょう</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
@@ -329,22 +329,22 @@
     <string name="buildinginfo_upgradenotavail">アップグレード不可</string>
     <string name="buildinginfo_upgrade">アップグレード</string>
     <string name="draft_pool00_title">市民プール</string>
-    <string name="draft_pool00_text">市民プールがあったら住民達は喜ぶでしょう</string>
+    <string name="draft_pool00_text">市民プールがあれば住民達は喜ぶでしょう</string>
     <string name="draft_pool00_waterslide_title">ウオータースライド</string>
     <string name="draft_pool00_waterslide_text">ウオータースライドと日傘</string>
     <string name="blank_text">ここにあなたの広告を掲示することができます</string>
     <string name="draft_middlepark00_title">中央公園</string>
     <string name="draft_middlepark00_text">住民達は喜ぶでしょう</string>
     <string name="draft_basketball00_title">バスケットボールコート</string>
-    <string name="draft_basketball00_text">ここで子供達はバスケットボールを遊ぶことが出来ます</string>
+    <string name="draft_basketball00_text">ここで子供達はバスケットボールで遊ぶことが出来ます</string>
     <string name="draft_tennis00_title">テニスコート</string>
-    <string name="draft_tennis00_text">ここで子供達はテニスを遊ぶことが出来ます</string>
+    <string name="draft_tennis00_text">ここで子供達はテニスで遊ぶことが出来ます</string>
     <string name="draft_middlepark00_lights_title">東屋</string>
-    <string name="draft_middlepark00_lights_text">ここで住民達はゆっくりする事が出来ます</string>
+    <string name="draft_middlepark00_lights_text">ここで住民達はゆったりする事が出来ます</string>
     <string name="draft_middlepark00_clock_title">時計</string>
     <string name="draft_middlepark00_clock_text">時刻を教えてくれます</string>
-    <string name="notify_power_low">電気があまり残ってません、新しい発電所を建設する必要があリます</string>
-    <string name="notify_water_low">水があまり残ってません、新しいポンプ場を建設する必要があリます</string>
+    <string name="notify_power_low">電気の使用率が高いので、新しい発電所を建設してください</string>
+    <string name="notify_water_low">水の使用率が高いので、新しいポンプ場を建設してください</string>
     <string name="notify_religion">もっと宗教建築物を作ってください</string>
     <string name="notify_park">もっと公園を作ってください</string>
     <string name="notify_sport">もっと運動が出来る所を作ってください</string>
@@ -359,15 +359,15 @@
     <string name="notify_requirementupgrade">おめでとうございます。%2$sのアップグレード%1$sをアンロックしました!</string>
     <string name="draftselector_titlesports">スポーツ</string>
     <string name="draftselector_titlealert">緊急事態</string>
-    <string name="notify_fire">火事が発生しました、早く消防隊を呼んでください!</string>
+    <string name="notify_fire">火事が発生しました。早く消防隊を呼んでください!</string>
     <string name="notify_pollution">汚染がひどい!</string>
     <string name="draft_radio00_title">ラジオ局</string>
     <string name="draft_radio00_text">ラジオ番組が放送されます</string>
     <string name="draftselector_cmdalert">出動!</string>
     <string name="draft_alert_police00_title">警察を呼ぶ</string>
-    <string name="draft_alert_police00_text">犯罪を止めるために警察を呼んでください。</string>
+    <string name="draft_alert_police00_text">犯罪が発生しています。警察を呼んでください。</string>
     <string name="draft_alert_fire00_title">消防隊を呼ぶ</string>
-    <string name="draft_alert_fire00_text">何かが燃えている場合は、消防隊にを呼んでください。</string>
+    <string name="draft_alert_fire00_text">何かが燃えている場合は、消防隊を呼んでください。</string>
     <string name="draft_alert_medic00_title">救急車を呼ぶ</string>
     <string name="draft_alert_medic00_text">事故が起こったときは救急車を呼んでください。</string>
     <string name="buildinginfo_powerusage">使用率: %1$.01f%%</string>
@@ -406,15 +406,15 @@
 \n
 \n同時に1つのラジオ番組だけが許可されています。古いプログラムは削除されます</string>
     <string name="draft_radio00_sport_title">スポーツ FM</string>
-    <string name="draft_radio00_sport_text">スポーツレポートやスポーツイベントのエキサイティングなライブ放送を送信します
+    <string name="draft_radio00_sport_text">スポーツ中継やスポーツイベントについて放送します
 \n
 \n同時に1つのラジオ番組だけが許可されています。古いプログラムは削除されます</string>
     <string name="draft_radio00_fun_title">FUN ラジオ</string>
-    <string name="draft_radio00_fun_text">主に音楽と軽いエンターテインメントプログラムを送ります。リスナーは気分が落ち着きます
+    <string name="draft_radio00_fun_text">音楽やエンタメ番組を放送します。リスナーは気分が落ち着きます
 \n
 \n同時に1つのラジオ番組だけが許可されています。古いプログラムは削除されます</string>
     <string name="draft_radio00_faith_title">信仰 ラジオ</string>
-    <string name="draft_radio00_faith_text">信仰と地球上の存在に関する話をします。
+    <string name="draft_radio00_faith_text">信仰と地球上の存在について放送します。
 \n
 \n同時に1つのラジオ番組だけが許可されています。古いプログラムは削除されます</string>
     <string name="draft_lighthouse00_title">灯台</string>
@@ -427,10 +427,10 @@
     <string name="tutorial_title">チュートリアル</string>
     <string name="tutorial_welcome">チュートリアルへようこそ!</string>
     <string name="tutorial_minimap">いつでもミニマップの表示と非表示を切り替えることができます</string>
-    <string name="tutorial_buildroad_a">今から道路建設から始めます。まず最も単純な道路を選択してください</string>
-    <string name="tutorial_buildroad_b">タイルに沿って道路を置きます。 道路の開始地点の所をタップして下さい、もう一度タップして終了地点を決める</string>
+    <string name="tutorial_buildroad_a">今から道路を設置します。まず最も単純な道路を選択してください</string>
+    <string name="tutorial_buildroad_b">タイルに沿って道路を設置しましょう。 道路の開始地点の所をタップし、もう一度タップして終了地点を決めます</string>
     <string name="tutorial_buildroad_c">お見事!、道路ツールを閉じてください</string>
-    <string name="tutorial_buildenergy_a">次は太陽光発電所を作ろう</string>
+    <string name="tutorial_buildenergy_a">次は太陽光発電所を作りましょう</string>
     <string name="tutorial_buildenergy_b">マークしたタイルの上に置きます</string>
     <string name="tutorial_buildenergy_c">お見事!</string>
     <string name="tutorial_buildwire_a">電線を使用して電気を供給することができます。</string>
@@ -439,10 +439,10 @@
     <string name="tutorial_buildwater_a">水を供給するために貯水塔を建てましょう。</string>
     <string name="tutorial_buildwater_b">マークしたタイルの上に置きます</string>
     <string name="tutorial_buildwater_c">お見事!</string>
-    <string name="tutorial_buildpipe_a">貯水塔だけでは不十分です。それを運ぶために水道管が必要です。</string>
+    <string name="tutorial_buildpipe_a">貯水塔だけでなく、水を運ぶための水道管が必要です。</string>
     <string name="tutorial_buildpipe_b">タイルに沿って水道管を配置します</string>
-    <string name="tutorial_buildpipe_c">お見事。これで、地区を決める事ができます</string>
-    <string name="tutorial_buildzones">地区とは、誰がどこで建築できるかを記述します。それらには3つの種類があります</string>
+    <string name="tutorial_buildpipe_c">お見事！それでは、地区を設置しましょう</string>
+    <string name="tutorial_buildzones">地区とは、住民が建物を建てることができる場所です。地区には３種類あります</string>
     <string name="tutorial_buildresidential_a">住宅地区を決めましょう。住民はそこに住宅を建てることができます</string>
     <string name="tutorial_buildresidential_b">地区をマークされたタイルの上に置きます</string>
     <string name="tutorial_buildresidential_c">お見事</string>
@@ -451,14 +451,14 @@
     <string name="tutorial_buildcommercial_c">お見事</string>
     <string name="tutorial_buildindustrial_a">最後に工業地区。そこに工場が建設されます</string>
     <string name="tutorial_buildindustrial_b">地区をマークされたタイルの上に置きます</string>
-    <string name="tutorial_buildindustrial_c">お見事。今すぐ建物が建設されます</string>
-    <string name="tutorial_industrial_keepaway">汚染と騒音のために、工業地区を他の地区から遠ざけるべきです。</string>
-    <string name="tutorial_rci">このボタンをタップすると、すべての地区タイプの詳細な要求情報が表示されます</string>
-    <string name="tutorial_speed_fast">待ち時間を短縮するために、シミュレーションの速度を変更することができます</string>
+    <string name="tutorial_buildindustrial_c">お見事！もうすぐ建物の建設が完了します…</string>
+    <string name="tutorial_industrial_keepaway">工業地区は汚染と騒音が発生するため、他の地区から遠ざけなければいけません。</string>
+    <string name="tutorial_rci">このボタンをタップすると、いまどの地区が必要かがわかります</string>
+    <string name="tutorial_speed_fast">速度を変更すると、建物が速く建ちます</string>
     <string name="tutorial_speed_normal">通常の速度に戻してください</string>
     <string name="tutorial_money_task">あなたの仕事は、あなたの都市を拡大するために税金から利益を得ることです</string>
     <string name="tutorial_money_info">あなたのお金や税金を変更するための詳細情報を入手するには、右下をタップして下さい</string>
-    <string name="tutorial_congrats">おめでとう、あなたはTheoTownの基礎を学びました。今すぐあなた自身の都市を始めることができます:)</string>
+    <string name="tutorial_congrats">おめでとう！あなたはTheoTownの基礎を学びました。今すぐあなたの都市を作成しましょう</string>
     <string name="draft_road03_title">一方通行道路</string>
     <string name="draft_road03_text">この道路では、車は一方向にしか走行できません</string>
     <string name="budget_sports">スポーツ</string>
@@ -473,14 +473,14 @@
     <string name="settings_disaster_flooding">洪水</string>
     <string name="settings_disaster_godzilla">怪獣</string>
     <string name="settings_disaster_auto">自動 災害</string>
-    <string name="notify_firenodp">あなたの町に火事があります！火災を消火するために消防署を建設して下さい</string>
+    <string name="notify_firenodp">火事が発生しました！火災を消火するために消防署を建設して下さい</string>
     <string name="draft_destroyedtile_title">廃棄物</string>
     <string name="draft_destroyedtile_text">破壊された建築物。除去する必要があります</string>
     <string name="disaster_fire_title">火事</string>
     <string name="disaster_fire_text">すべてを燃やす!</string>
     <string name="disaster_fire_cmdtext">燃えろ!</string>
     <string name="disaster_meteorite_title">隕石</string>
-    <string name="disaster_meteorite_text">隕石が空から落とす</string>
+    <string name="disaster_meteorite_text">隕石が空から落ちてくる</string>
     <string name="disaster_meteorite_cmdtext">落とす</string>
     <string name="disaster_earthquake_title">地震</string>
     <string name="disaster_earthquake_text">地面を揺らす</string>
@@ -489,17 +489,17 @@
     <string name="disaster_illness_text">人々は病気になる...</string>
     <string name="disaster_illness_cmdtext">ウイルス</string>
     <string name="disaster_flooding_title">洪水</string>
-    <string name="disaster_flooding_text">雨が長い間いだ降る</string>
+    <string name="disaster_flooding_text">たくさんの雨が降る</string>
     <string name="disaster_flooding_cmdtext">雨を降らす</string>
     <string name="buildinginfo_influences">影響</string>
     <string name="ci_loan_title">ローン</string>
     <string name="ci_loan_donate">頼む</string>
     <string name="ci_loan_get">借りる</string>
     <string name="ci_loan_donate_text">お願いします、少しでもいいのでお金を下さい :(</string>
-    <string name="draft_crater4x4_title">隕石孔</string>
-    <string name="draft_crater4x4_text">大きな隕石孔。除去する必要があります</string>
-    <string name="draft_crater1x1_title">隕石孔</string>
-    <string name="draft_crater1x1_text">小さな隕石孔。除去する必要があります</string>
+    <string name="draft_crater4x4_title">クレーター</string>
+    <string name="draft_crater4x4_text">大きなクレーター。除去する必要があります</string>
+    <string name="draft_crater1x1_title">クレーター</string>
+    <string name="draft_crater1x1_text">小さなクレーター。除去する必要があります</string>
     <string name="settings_disaster_nuke">核爆弾</string>
     <string name="disaster_nuke_title">核爆弾</string>
     <string name="disaster_nuke_text">無害かも知れません</string>
@@ -512,7 +512,7 @@
     <string name="topic_support_ads">広告をタップすることで支援することができます :)</string>
     <string name="settings_disaster_tornado">竜巻</string>
     <string name="disaster_tornado_title">竜巻</string>
-    <string name="disaster_tornado_text">竜巻はあなたの町にとって危険です</string>
+    <string name="disaster_tornado_text">竜巻はとても危険です</string>
     <string name="disaster_tornado_cmdtext">竜巻!</string>
     <string name="buildinginfo_untouchable">建物の保護</string>
     <string name="draft_zoneresidential_lvl2_title">密集した住宅区</string>
@@ -528,7 +528,7 @@
     <string name="requirement_peoplecount_middle">必要: %1$,d人の一般住民</string>
     <string name="requirement_peoplecount_rich">必要: %1$,d人の金持ち住民</string>
     <string name="requirement_building">必要: %1$s</string>
-    <string name="draftselector_onlyone">1回のみ構築することができます</string>
+    <string name="draftselector_onlyone">1回だけ構築することができます</string>
     <string name="draftselector_onlyn">%1$,d回しか建設できません</string>
     <string name="draft_church02_title">教会</string>
     <string name="draft_church02_text">町のための教会</string>
@@ -563,15 +563,15 @@
     <string name="influence_religion_title">宗教</string>
     <string name="influence_culture_title">文化</string>
     <string name="influence_culture_text">あなたの町の文化価値</string>
-    <string name="influence_education_low_text">初等教育は小学校によって提供される</string>
-    <string name="influence_education_high_text">高等教育は高等学校によって提供される.</string>
-    <string name="influence_firedep_text">消防署の影響は、火災の可能性を低減します</string>
+    <string name="influence_education_low_text">初等教育は小学校によって提供されます</string>
+    <string name="influence_education_high_text">高等教育は高等学校によって提供されます.</string>
+    <string name="influence_firedep_text">消防署があると、火災の可能性を低減します</string>
     <string name="influence_health_text">医師は住民の健康を維持するのに役立ちます</string>
-    <string name="influence_noise_text">誰も騒々しい地域に住みたいとは思っていません</string>
+    <string name="influence_noise_text">誰も騒々しい地域に住みたいとは思いません</string>
     <string name="influence_park_text">あなたの住人を幸せにしたら、高密度の建物が建設されます</string>
-    <string name="influence_police_text">犯罪行為を避ける</string>
-    <string name="influence_pollution_text">誰も汚染地域に住みたいとは思っていません</string>
-    <string name="influence_religion_text">宗教はあなたの住人の属性を高めます</string>
+    <string name="influence_police_text">犯罪を防止します</string>
+    <string name="influence_pollution_text">誰も汚染された地域に住みたいとは思いません</string>
+    <string name="influence_religion_text">宗教はあなたの住人の信仰を高めます</string>
     <string name="influence_sport_text">あなたの住人を健康に保ちます</string>
     <string name="draftselector_cmdShow">表示</string>
     <string name="ca_education_low_text">初等教育: 生徒 %1$,d/%2$,d人</string>
@@ -579,7 +579,7 @@
     <string name="ca_health_text">健康: 患者 %1$,d/%2$,d人</string>
     <string name="gamemode_nomoney">金がない</string>
     <string name="draft_zoneharbor_title">港</string>
-    <string name="draft_zoneharbor_text">あなたの町の水辺地帯のための工業地区</string>
+    <string name="draft_zoneharbor_text">水辺地帯のための工業地区</string>
     <string name="settings_auto_road_for_zones">地区ツールで道路を構築する</string>
     <string name="settings_relaxed_line_tool">簡単なラインツール</string>
     <string name="topic_fstapril">初四月おめでとうございます</string>
@@ -601,7 +601,7 @@
     <string name="draft_marker_protectedmarker_title">保護された建物</string>
     <string name="draft_marker_protectedmarker_text">撤去できない建物が表示されます</string>
     <string name="draft_marker_trafficmarker_title">渋滞</string>
-    <string name="draft_marker_trafficmarker_text">道路の渋滞が見れます</string>
+    <string name="draft_marker_trafficmarker_text">渋滞がどこで発生しているかを見ることがます</string>
     <string name="draft_mayorvilla00_title">市長の屋敷</string>
     <string name="draft_mayorvilla00_text">市長のための素晴らしい住宅</string>
     <string name="happiness_health">健康</string>
@@ -615,9 +615,9 @@
     <string name="topic_birthday_theotown">誕生日おめでとう TheoTown :D</string>
     <string name="menu_cmddonate">寄付</string>
     <string name="draft_waterpump01_title">小さいポンプ場</string>
-    <string name="draft_waterpump01_text">水の近くに建設しなければならない</string>
+    <string name="draft_waterpump01_text">水の近くに建設しなければいけません/string>
     <string name="draft_filterplant00_title">下水処理場</string>
-    <string name="draft_filterplant00_text">下水をキレイにする</string>
+    <string name="draft_filterplant00_text">下水をキレイにします</string>
     <string name="topic_fun">楽しんでください:)</string>
     <string name="topic_android">Android専用</string>
     <string name="topic_tryharder">もっと頑張ろう</string>
@@ -628,7 +628,7 @@
     <string name="ci_water_waste">排水: %1$.1f%%</string>
     <string name="shader_fancy2">X-ファンシー</string>
     <string name="draft_sewerpipe00_title">下水パイプ</string>
-    <string name="draft_sewerpipe00_text">自然に廃水を放出することによって水質汚染を減少させる。悪影響を及ぼしている</string>
+    <string name="draft_sewerpipe00_text">自然に廃水を放出することによって水質汚染を減少させるが、悪影響を及ぼします</string>
     <string name="settings_lowresmapscreenshot">地図のスクリーンショットの解像度を下げます</string>
     <string name="draft_marina00_title">マリーナ</string>
     <string name="draft_marina00_text">遊覧船と小型ボートのための係留機構を備えた特別に設計された港です</string>
@@ -643,8 +643,8 @@
     <string name="draft_decoind00_title">工業地区</string>
     <string name="settings_shaderconfig">カラフル</string>
     <string name="settings_shadertype_normal">普通</string>
-    <string name="settings_shadertype_fancy">ファンシー</string>
-    <string name="settings_shadertype_xfancy">X-ファンシー</string>
+    <string name="settings_shadertype_fancy">なめらか</string>
+    <string name="settings_shadertype_xfancy">X-なめらか</string>
     <string name="draft_buoy00_title">ブイ</string>
     <string name="draft_buoy00_text">船を誘導する</string>
     <string name="ci_general_seed">地形: %1$s</string>
@@ -654,12 +654,12 @@
     <string name="ci_budget_title_nomoney">金融 (理論的)</string>
     <string name="dialog_notification_cmdok">はい</string>
     <string name="draft_nuclearplant00_title">原子力発電所</string>
-    <string name="draft_nuclearplant00_text">石炭発電所より強力です。維持するのにはかなりコストがかかり、冷却には多くの水が必要です。水なしで爆発することがある</string>
+    <string name="draft_nuclearplant00_text">石炭発電所より強力です。維持するのにはかなりコストがかかり、冷却には多くの水が必要です。水がないと爆発します</string>
     <string name="draft_gasplant00_title">天然ガス火力発電所</string>
     <string name="draft_gasplant00_text">他の発電所よりも安価です。少しの汚染があります</string>
     <string name="draft_carcinema00_title">ドライブインシネマ</string>
     <string name="draft_carcinema00_text">TheoTownの住人のためのエンターテイメント</string>
-    <string name="notify_lowbudget">お金は残っていません。いくつかのローンを取ることができます</string>
+    <string name="notify_lowbudget">お金が残り少なくなっています。ローンを取りますか？</string>
     <string name="settings_rightsidebar">右側にサイドバー</string>
     <string name="settings_topstatusbar">上にステータスバー</string>
     <string name="settings_leftminimap">左側にミニマップ</string>
@@ -667,9 +667,9 @@
     <string name="influence_radioactive_title">放射能汚染</string>
     <string name="influence_radioactive_text">人間と自然に危害を加える</string>
     <string name="draft_rail00_title">線路</string>
-    <string name="draft_rail00_text">旅客列車用のレール</string>
+    <string name="draft_rail00_text">列車用のレール</string>
     <string name="draft_railwaystation00_title">駅</string>
-    <string name="draft_railwaystation00_text">旅客列車専用の駅</string>
+    <string name="draft_railwaystation00_text">列車専用の駅</string>
     <string name="draft_school02_title">小さな小学校</string>
     <string name="draft_school02_text">小さな村のための小さな小学校</string>
     <string name="toolremove_zone_title">地区を撤去</string>
@@ -684,14 +684,14 @@
     <string name="draft_police01_title">交番</string>
     <string name="draft_police01_text">犯罪防止</string>
     <string name="disaster_riot_title">暴動</string>
-    <string name="disaster_riot_text">特殊部隊によってのみ暴動を止めることができる。</string>
+    <string name="disaster_riot_text">特殊部隊によってのみ暴動を止めることができます。</string>
     <string name="disaster_riot_cmdtext">騒ぎを起こす!</string>
     <string name="draft_beach00_title">ビーチ</string>
     <string name="draft_beach00_text">ビーチで素晴らしい一日を過ごしましょう</string>
     <string name="draft_biergarten00_title">ビヤガーデン</string>
-    <string name="draft_biergarten00_text">バーまたは居酒屋に取り付けられ、ビールが提供される庭</string>
-    <string name="notify_noreszone">人々は私たちの町に住みたい。彼らの住宅地区を建設してください</string>
-    <string name="notify_nocomzone">あなたの町に商業施設が構築されるように商業地区を建設しましょう</string>
+    <string name="draft_biergarten00_text">バーや居酒屋のような、ビールが提供される庭</string>
+    <string name="notify_noreszone">人々は私たちの町に住みたがっています。住宅地区を設置しましょう</string>
+    <string name="notify_nocomzone">あなたの町に商業施設が構築されるように商業地区を設置しましょう</string>
     <string name="notify_noindzone">工業は私たちの町に建設されるかもしれませんが、最初に地区を建設しなければなりません</string>
     <string name="createcity_sizebigbigbig">超巨大</string>
     <string name="locale">ja</string>
@@ -701,7 +701,7 @@
     <string name="happiness_supply">供給</string>
     <string name="happiness_environment">自然</string>
     <string name="happiness_freetime">自由時間</string>
-    <string name="notify_noroad">一部の建物には道路接続がありません。これを修正する必要があります</string>
+    <string name="notify_noroad">一部の建物が道路に繋がっていません。道路を繋げましょう</string>
     <string name="notify_water_waste">ここにとても汚染された水があります!</string>
     <string name="influence_management_title">管理</string>
     <string name="influence_management_text">あなたの町を管理します</string>
@@ -745,8 +745,8 @@
     <string name="app_name_premium">TheoTown プレミアム</string>
     <string name="busstopinfo_title">バス停</string>
     <string name="roadinfo_title">道路</string>
-    <string name="roadinfo_trafficlights_on">信号を表示する</string>
-    <string name="roadinfo_trafficlights_off">信号を表示しない</string>
+    <string name="roadinfo_trafficlights_on">信号を設置する</string>
+    <string name="roadinfo_trafficlights_off">信号を設置しない</string>
     <string name="notify_crime">ここで犯罪が多発しています。より多くの警察署を建設するか、街の満足度を向上させるべきです。</string>
     <string name="tutorial_buildbridge_a">主要道路を建設して交通量を増やすべきでしょう。道路を選択してください</string>
     <string name="tutorial_buildbridge_b">計画された道路の始点と終点をタップします。川の上では自動的に橋が建設されます</string>
@@ -768,7 +768,7 @@
     <string name="draft_marker_watermarker_title">水道</string>
     <string name="draft_road04_title">大通り</string>
     <string name="draft_road05_title">高速道路</string>
-    <string name="draft_road04_text">木のあるキレイな道路</string>
+    <string name="draft_road04_text">木のある幹線道路</string>
     <string name="draft_road05_text">"遠い地域をつなげるときに最適 "</string>
     <string name="notify_unhappy">ここの人々は%1$sのために不幸です。あなたは住民の満足度を改善すべきです</string>
     <string name="happiness_general">一般的な満足度</string>
@@ -811,7 +811,7 @@
     <string name="draft_mltry_tankbase00_title">戦車基地</string>
     <string name="draft_mltry_rocketlauncher00_title">ロケット砲</string>
     <string name="draft_landfill00_title">ゴミ埋め立て地</string>
-    <string name="draft_wasteincinerator00_title">廃棄物焼却炉</string>
+    <string name="draft_wasteincinerator00_title">焼却場</string>
     <string name="draft_firedepartment02_title">大型消防署</string>
     <string name="draft_cemetery00_title">墓地</string>
     <string name="draft_crematory00_title">火葬場</string>
@@ -824,7 +824,7 @@
     <string name="draft_firedepartment02_heli00_text">ヘリコプターはここに着陸します \n\n消防署の範囲を広げます</string>
     <string name="settings_reset_title">設定をリセット</string>
     <string name="settings_reset_text">すべての設定が失われます。本当に良いですか?</string>
-    <string name="settings_leftsidetraffic">左利き</string>
+    <string name="settings_leftsidetraffic">左側通行</string>
     <string name="draft_feature_noads00_title">広告を表示しない</string>
     <string name="draft_feature_noads00_text">画面の下部にある広告を表示しない</string>
     <string name="features_title">追加コンテンツ</string>
@@ -876,7 +876,7 @@
     <string name="control_off">オフ</string>
     <string name="draft_school03_title">大きな高校</string>
     <string name="draft_school03_text">より多くの学生のためのより大きい高校</string>
-        <string name="gamemode_easy_desc">このゲームモードでは、お金の量が他より多く始まり、全体的にやや簡単です</string>
+        <string name="gamemode_easy_desc">このゲームモードでは、お金の量が多く、簡単です</string>
     <string name="gamemode_middle_desc">デフォルトのゲームモード。あなたは良い金額のお金で開始し、あなたの夢の町を構築することは困難ではありません</string>
     <string name="gamemode_hard_desc">あなたはもうTheotownのプロですか？そしたらこのゲームモードを遊んでください。少量のお金で始まり、これは全体的に難しいです。</string>
     <string name="dialog_ffwd_title">早送り：</string>
@@ -908,10 +908,10 @@
     <string name="settings_autosave">自動セーブ</string>
     <string name="region_unlock">アンロック</string>
     <string name="dialog_unlockcity_title">アンロック</string>
-    <string name="dialog_unlockcity_text">ここに新しい町を作るためにこのエリアのロックを解除しますか？</string>
+    <string name="dialog_unlockcity_text">新しい町を作るためにこのエリアのロックを解除しますか？</string>
     <string name="region_play">開始</string>
     <string name="settings_lowcolordepth">低い色深度</string>
-    <string name="region_neededinhabitants">地方には少なくとも%1$,dの住民が必要です。</string>
+    <string name="region_neededinhabitants">解放するには地域に%1$,dの住民が必要です。</string>
     <string name="draft_devroad02_title">国道</string>
     <string name="draft_devroad02_text">国によって建設され、支払われる高速道路</string>
     <string name="draft_devroad00_title">国道</string>
@@ -1042,12 +1042,12 @@
     <string name="menu_console">コンソール</string>
     <string name="topic_crispr">CRISPRはあなたの人生を変えるかもしれない</string>
     <string name="draft_feature_firestation00_title">中央消防署</string>
-    <string name="draft_feature_firestation00_text">中央消防署では町の広い範囲で対応でき、アップグレードでヘリポートが使えます</string>
+    <string name="draft_feature_firestation00_text">中央消防署では町の広い範囲で対応でき、アップグレードするとヘリポートが使えます</string>
     <string name="draft_feature_gocart00_title">ゴーカート サーキット</string>
-    <string name="draft_feature_gocart00_text">あなたの町にモトスポーツはどうですか？また、通常の道でもゴーカートは走ります</string>
+    <string name="draft_feature_gocart00_text">あなたの町にモータースポーツはどうですか？通常の道でもゴーカートは走ります</string>
     <string name="draft_firedepartment02_text">巨大な半径と多くの消防車を持っています。火災の予防や消火に役立ちます。</string>
     <string name="draft_prmgocart00_title">ゴーカート サーキット</string>
-    <string name="draft_prmgocart00_text">あなたの町にモトスポーツはどうですか？また、通常の道でもゴーカートは走ります</string>
+    <string name="draft_prmgocart00_text">あなたの町にモータースポーツはどうですか？通常の道でもゴーカートは走ります</string>
     <string name="settings_smoothscrolling">滑らかなスクロール</string>
     <string name="settings_buildingtoolold">古い建設ツール</string>
     <string name="settings_roadautojoin">道路ツールの自動結合</string>
@@ -1055,7 +1055,7 @@
     <string name="tut_start00">とても綺麗な所ですね</string>
     <string name="tut_start01">それでは、大都市を建設しましょう。でも、まずはゆっくりと始めましょう</string>
     <string name="tut_start02">画面をタップして地図を移動する事ができます。 2本の指でズームできます</string>
-    <string name="tut_start03">いいです、これであなたはコントロールの基礎を分かりました。でわ、今からあなたの最初の町を作り始ましょう</string>
+    <string name="tut_start03">いいです、これであなたはコントロールの基礎を分かりました。では、今からあなたの最初の町を作り始ましょう</string>
     <string name="tut_build00">なんて都合のいい!、国はもうすでにここにいくつかの道路を建設しているので、私たちは無料でそれらを使うことができます</string>
     <string name="tut_build01">ここに住宅区を設定しましょう。人々はその後、自分で家を建てます</string>
     <string name="tut_build02">道路でその住宅区を囲みましょう。人々は道路の近くにしか建設しません</string>
@@ -1110,10 +1110,10 @@
     <string name="draft_feature_weather_machine00_title">天気変更研究所</string>
     <string name="draft_feature_weather_machine00_text">天気を変更するための秘密の技術を使用しています</string>
     <string name="draft_weather_machine00_title">天気変更研究所</string>
-    <string name="draft_weather_machine00_text">一流の秘密技術を使用しています！あなたは天気を変更するためにそれを使うことができます。</string>
+    <string name="draft_weather_machine00_text">一流の秘密技術を使用しています！あなたは天気を変更できます。</string>
 
     <string name="draft_mltry_fence01_title">軍用フェンス</string>
-    <string name="draft_mltry_fence01_text">装飾目的のための軍用フェンス</string>
+    <string name="draft_mltry_fence01_text">装飾目的の軍用フェンス</string>
 
     <string name="store_title">TheoTown (日本語版)</string>
     <string name="store_shortdesc">この都市建築ゲームで自分の理想の町を構築しましょう</string>
@@ -1272,7 +1272,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
 
     <string name="ci_airport_title">空港</string>
     <string name="draft_wire01_title">送電線</string>
-    <string name="draft_wire01_text">多くの電気の運ぶための大きなワイヤー。地方エネルギー交換のため</string>
+    <string name="draft_wire01_text">多くの電気の運ぶための大きなワイヤー。隣町に送電できます。</string>
     <string name="draft_transformator00_title">変圧器</string>
     <string name="draft_transformator00_text">高電圧を通常電圧に変換するためには変圧器が必要です。送電線の近くに建設してください</string>
 
@@ -1385,7 +1385,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="disaster_pink_slime_text">町を全て徐々に消費していくスライムが広がります</string>
     <string name="disaster_pink_slime_cmdtext">スライム!</string>
     <string name="draft_hydroplant00_title">水力発電所</string>
-    <string name="draft_hydroplant00_text">河川の力で発電する水力発電所。 汚染は発生しません</string>
+    <string name="draft_hydroplant00_text">川の流れで発電する水力発電所。 汚染は発生しません</string>
     <string name="draft_feature_slime00_title">スライム災害</string>
     <string name="draft_feature_slime00_text">スライム災害ではあなたの町を徐々に飲み込みます。 もちろん、あなたがそうしたければの話だけれど…</string>
 
@@ -1404,7 +1404,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_feature_christmas00_text">クリスマスのための様々な装飾:)</string>
     <string name="draft_category_christmas00_title">冬の時期</string>
     <string name="draft_deco_chr_snowman00_title">雪だるま</string>
-    <string name="draft_deco_chr_snowman00_text">子供たちは冬の時期に雪だるまを作るのが好きです</string>
+    <string name="draft_deco_chr_snowman00_text">子供たちは冬の時期に雪だるまを作るのが好き</string>
     <string name="draft_internationalcommercecentre00_title">アイシーシー</string>
     <string name="draft_internationalcommercecentre00_text">香港の国際商業センター(ICC)は、108階建ての商業用超高層ビルです。 それは484メートルにして香港で最も高い建物です。 2010年に完成しました</string>
     <string name="settings_autosave_interval">自動保存間隔</string>
@@ -1494,7 +1494,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="dialog_dbuilding_text">この建物をここに建てたいですか？ すぐに建物を完成させます</string>
     <string name="dialog_performance_title">パフォーマンス</string>
     <string name="draft_brandenburgertor00_title">ブランデンブルク門</string>
-    <string name="draft_brandenburgertor00_text">ブランデンブルク門は、18世紀に建てられたドイツのランドマークです。 それはベルリンにあります</string>
+    <string name="draft_brandenburgertor00_text">ブランデンブルク門は、18世紀に建てられたドイツのベルリンにあるランドマークです。 </string>
 
 
     <string name="control_accept">同意する</string>
@@ -1518,11 +1518,11 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="settings_saveforscreenshot">スクリーンショット撮影時に保存する</string>
     <string name="draft_eiffeltower00_title">エッフェル塔</string>
     <string name="draft_eiffeltower00_text">パリのエッフェル塔は、フランスのランドマークとして最も有名です。塔の高さは324メートルで、1889年に完成しました。</string>
-    <string name="dialog_wb_text02">あなたが%1$sから出ていた間に獲得したお金を収集しますか？\n\n%2$s</string>
+    <string name="dialog_wb_text02">あなたが%1$sにいなかった間に獲得したお金を収集しますか？\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">得る</string>
     <string name="dialog_wb_cmdforfeit">失う</string>
     <string name="dialog_diamondtool_title">今すぐ完成させる</string>
-    <string name="dialog_diamondtool_text">私たちはそれを建築すべきでしょうか？</string>
+    <string name="dialog_diamondtool_text">本当に建築する？</string>
     <string name="draft_feature_valentinesday00_title">ハッピーバレンタインデー！</string>
     <string name="draft_feature_valentinesday00_text">これらの建物を永久に解除する</string>
     <string name="tool_removetunnel_title">トンネル撤去</string>
@@ -1581,9 +1581,9 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_draft_hgen_title">一般的な満足度</string>
     <string name="draft_draft_hgen_text">一般的な満足度</string>
     <string name="influence_passenger_bus_title">バス</string>
-    <string name="influence_passenger_bus_text">人々がバスを使用した場合、道路上の交通量は少なくなります</string>
+    <string name="influence_passenger_bus_text">人々がバスを使用すると、交通量が少なくなります</string>
     <string name="influence_passenger_train_title">電車</string>
-    <string name="influence_passenger_train_text">人々が電車を使用した場合、道路上の交通量は少なくなります</string>
+    <string name="influence_passenger_train_text">人々が電車を使用すると、交通量が少なくなります</string>
     <string name="influence_residential_title">住宅区</string>
     <string name="influence_residential_text">人々は住宅区に住むことを好む</string>
     <string name="influence_commercial_title">商業区</string>
@@ -1626,9 +1626,9 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_bigben00_title">ビッグベン</string>
     <string name="draft_bigben00_text">ビッグベンはロンドンにある高さ96mの鐘楼で、1859年に建てられました。</string>
     <string name="draft_angelofindependence00_title">独立の天使</string>
-    <string name="draft_angelofindependence00_text">独立の天使」は、メキシコの独立戦争を記念して1910年に建てられたメキシコシティのモニュメントです。</string>
+    <string name="draft_angelofindependence00_text">独立の天使は、メキシコの独立戦争を記念して1910年に建てられたメキシコシティのモニュメントです。</string>
     <string name="draft_statueofliberty00_title">自由の女神</string>
-    <string name="draft_statueofliberty00_text">自由の女神はフランス人からアメリカ人に贈られたものです。1886年に落成し、高さは93メートル。</string>
+    <string name="draft_statueofliberty00_text">自由の女神はフランス人がアメリカ人に贈ったものです。1886年に落成し、高さは93メートルになります。</string>
     <string name="draft_decorustywatertower00_title">錆びた貯水塔</string>
     <string name="draft_decorustywatertower00_text">古い錆びた貯水塔。現在は使用されていないまま放置されている</string>
     <string name="draft_underground_wire00_title">地下電線</string>
@@ -1717,7 +1717,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
 
     <string name="draft_recyclingyard00_title">資源の買取センター</string>
     <string name="draft_recyclingyard00_text">資源の買取センターでリサイクルできるのに、なぜゴミを焼くか埋立投棄場に持っていくのですか？</string>
-    <string name="draft_notify_pickle_spawned00_text">野生のピクルスが%sで現れました。市長、どうしますか？</string>
+    <string name="draft_notify_pickle_spawned00_text">野生のピクルスがあらわれた！市長、どうしますか？</string>
     <string name="draft_rugbyfield00_title">ラグビー場</string>
     <string name="draft_rugbyfield00_text">ラグビー好きのためのラグビー場</string>
     <string name="menu_facebook">Facebookの接続</string>
@@ -1765,7 +1765,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="notify_waste_needer00">この建物の場合、ゴミは回収されません。</string>
     <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
     <string name="draft_landfill00_text">ゴミをまとめて回収できるスペースがいっぱい。空になって初めて取り出せる。</string>
-    <string name="waste_clear">ゴミの上でSWIPEしてクリアします。</string>
+    <string name="waste_clear">ゴミの上でスワイプしてクリアします。</string>
     <string name="waste_cmdclear">今すぐクリア</string>
     <string name="dialog_wasteclear_title">今すぐクリア</string>
     <string name="dialog_wasteclear_text">埋立地の片付けはお任せください。</string>
@@ -1961,7 +1961,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_medic03_title">近代的な病院</string>
     <string name="draft_medic03_text">狭い空間でより多くの患者さんを診ることができる近代的な病院です。</string>
     <string name="draft_gol_dead_title">人生ゲーム</string>
-    <string name="draft_gol_dead_text">ライフフィールドのゲームを作成します。構築されたタイルをタップして状態を切り替えます。デフォルトの状態は死んでいます。</string>
+    <string name="draft_gol_dead_text">ライフゲームを作成します。構築されたタイルをタップして状態を切り替えます。デフォルトの状態は死んでいます。</string>
 
 
     <string name="draft_coittower00_title">コイトメモリアルタワー</string>
